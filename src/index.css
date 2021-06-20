@@ -14,13 +14,30 @@ code {
     monospace;
 }
 
-.header {
+header {
+  background-image: linear-gradient(to right, #a4c700, #009e80);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  min-height: 100px;
+}
+
+.title {
   text-align: center;
   font-size: 50px;
   letter-spacing: 5px;
   font-weight: bold;
   color: white;
   user-select: none;
+}
+
+.text {
+  min-width: 450px;
+  max-width: 40%;
+  padding-left: 40px;
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 2px;
 }
 
 .main {

@@ -11,14 +11,13 @@ const Contact = ({contact, handleChange, filterWord, checkValue}) => {
         if (words.length === 1) {
             if (firstName.includes(words[0]) || lastName.includes(words[0])) return true;
             else if (words[0] === "") return true;
-            else return false;
         }
         else if (words.length === 2) {
             if ((words[0] === firstName && lastName.startsWith(words[1])) || 
                 (words[0] === lastName && firstName.startsWith(words[1]))) return true;
-            else return false;
         }
-        else return false;
+        
+        return false;
     };
 
     const show = checkFilter(filterWord);
