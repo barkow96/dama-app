@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dama-app/static/css/main.3736add3.chunk.css",
+    "main.js": "/dama-app/static/js/main.4ea24c8d.chunk.js",
+    "main.js.map": "/dama-app/static/js/main.4ea24c8d.chunk.js.map",
+    "runtime-main.js": "/dama-app/static/js/runtime-main.2a7ff227.js",
+    "runtime-main.js.map": "/dama-app/static/js/runtime-main.2a7ff227.js.map",
+    "static/js/2.1e1490d2.chunk.js": "/dama-app/static/js/2.1e1490d2.chunk.js",
+    "static/js/2.1e1490d2.chunk.js.map": "/dama-app/static/js/2.1e1490d2.chunk.js.map",
+    "static/js/3.09254458.chunk.js": "/dama-app/static/js/3.09254458.chunk.js",
+    "static/js/3.09254458.chunk.js.map": "/dama-app/static/js/3.09254458.chunk.js.map",
+    "index.html": "/dama-app/index.html",
+    "static/css/main.3736add3.chunk.css.map": "/dama-app/static/css/main.3736add3.chunk.css.map",
+    "static/js/2.1e1490d2.chunk.js.LICENSE.txt": "/dama-app/static/js/2.1e1490d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a7ff227.js",
+    "static/js/2.1e1490d2.chunk.js",
+    "static/css/main.3736add3.chunk.css",
+    "static/js/main.4ea24c8d.chunk.js"
+  ]
+}
